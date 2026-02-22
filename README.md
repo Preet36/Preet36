@@ -18,5 +18,4 @@ I'm Manpreet Singh
 - Systems engineering and secure design  
 - 📫 How to reach me: ...
 - 🔗 LinkedIn: https://www.linkedin.com/in/msingh36/
-- ⚡ Fun fact: I am a powerlifter with a total of 1300lbs 
---
+- ⚡ Fun fact: I am a USAPL Powerlifter with a total of 1300lbs 
