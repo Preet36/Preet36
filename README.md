@@ -1,16 +1,22 @@
 ## Hi there 👋
+I'm Manpreet Singh
 
-<!--
-**Preet36/Preet36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🎓 Cybersecurity Engineering student at **George Mason University**  
+ Aspiring Cybersecurity Analyst | Cloud Security | Network Engineer
+ Hands-on builder with experience in SIEM and homelabs
 
 - 🔭 I’m currently working on ...
+- **Physical Cybersecurity Homelab** with pfSense, Pi-hole, Traefik, and Immich  
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- SIEM engineering and SOC workflows  
+- Cloud security monitoring and log analysis  
+- Network segmentation and firewall hardening
+- 🧠 Technical Interests
+- Threat detection & incident response  
+- Cloud and network security  
+- Malware analysis & digital forensics  
+- Systems engineering and secure design  
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 LinkedIn: https://www.linkedin.com/in/msingh36/
+- ⚡ Fun fact: I am a powerlifter with a total of 1300lbs 
+--
